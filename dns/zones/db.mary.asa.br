@@ -1,0 +1,15 @@
+$TTL 86400
+@   IN  SOA ns.mary.asa.br. admin.mary.asa.br. (
+            2021071001 ; Serial
+            3600       ; Refresh
+            1800       ; Retry
+            604800     ; Expire
+            86400 )    ; Minimum TTL
+
+@           IN  NS      ns.mary.asa.br.
+ns          IN  A       127.0.0.1
+proxy       IN  A       127.0.0.1
+mail        IN  A       127.0.0.1
+@           IN  A       127.0.0.1
+www         IN  CNAME   mary.asa.br.
+@           IN  MX 10   mail.mary.asa.br.
