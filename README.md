@@ -1,4 +1,5 @@
-###ATIVIDADE DOCKER
+###ATIVIDADE DOCKER###
+
 A atividade em questão teve como objetivo implementar  um servidor web usando Docker.
 
 ##Para realizar a tarefa conforme solicitado foram utilizadas as seguintes ferramentas:
