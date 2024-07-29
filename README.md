@@ -4,12 +4,6 @@ A atividade em questão teve como objetivo implementar  um servidor web usando D
 
 ##Para realizar a tarefa conforme solicitado foram utilizadas as seguintes ferramentas:
 
-
-Postfix  - https://hub.docker.com/r/boky/postfix
-
-Servidor de email de código aberto, para envio e recebimento de email.
-
-
 ubuntu/bind9 - ubuntu/bind9 - Docker Image | Docker Hub
 
 O BIND 9 fornece software para gerenciamento de DNS (Sistema de Nomes de Domínio), incluindo a definição autoritária de nomes de domínio para uma determinada zona DNS e a resolução recursiva de nomes de domínio para seus endereços IP. Além do próprio servidor DNS do BIND 9, esse contêiner também inclui ferramentas para executar consultas DNS e atualizações dinâmicas.
